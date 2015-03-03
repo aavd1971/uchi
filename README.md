@@ -1,2 +1,2 @@
 визуализация решения задачи.
-http://uchi.webmysite.ru/
+см  http://uchi.webmysite.ru/
